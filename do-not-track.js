@@ -1,6 +1,7 @@
-const domain = 'villahomes.com';
-const cookieName = 'aduss-do-not-track';
-const cookieValue = 'true';
+const domain = 'villahomes.com/*';
+// https://knowledge.hubspot.com/privacy-and-consent/what-cookies-does-hubspot-set-in-a-visitor-s-browser
+const cookieName = '__hs_do_not_track';
+const cookieValue = 'yes';
 const secure = false;
 const path = '/';
 

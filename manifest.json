@@ -1,6 +1,6 @@
 {
   "name": "Hubspot Do Not Track",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sets do not track cookie for hubspot",
   "permissions": ["activeTab"],
   "content_scripts": [
